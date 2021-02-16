@@ -1,0 +1,69 @@
+#menu {
+  background-color: #ffcccc;
+  width: 315px;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  position: fixed;
+  font-family: serif;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: inherit;
+}
+
+#contentContainer{
+  padding-left: 315px;
+}
+
+#headerSection {
+  height: 450px;
+  background-image: url('https://www.armanibeauty.com/dw/image/v2/AAQP_PRD/on/demandware.static/-/Sites-armani-global-Library/default/dwcd3abcb9/landing-pages/My-Way/launch_01_cover.jpg');
+  background-size: cover;
+  background-position: center center;
+  font-family: serif;
+  font-size: 26px;
+  text-align: right;
+  padding: 10px;
+  margin: 5px;
+}
+
+#insetContent {
+  padding-left: 20px;
+  padding-top: 50px;
+  /* padding: 500px 50px 0px 500px; */
+  /* top right bottom left in clockwise */
+  font-family: serif
+}
+
+#specialTitle {
+  border-bottom: 5px solid #000;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  font-family: serif
+}
+
+#bottomNav {
+  background-color: #ffcccc;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.bottomButton {
+  box-sizing: border-box;
+  background-color: #ffcccc;
+  font-size: 20px;
+  display: inline;
+  padding: 10px;
+  margin: 10px;
+  font-family: serif
+}
+
+#footerSignature {
+  /* text-align: right; */
+  position: absolute;
+  right: 15px;
+  font-family: serif;
+  text-decoration: underline;
+  /* two choose one */
+}
